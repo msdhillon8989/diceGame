@@ -4,11 +4,11 @@
 
 ## How to Run 
 
-This application is packaged as a jar. You run it using the ```java -jar``` command.
+This application is packaged as a jar. You can run it using the ```java -jar``` command.
 
 * Clone this repository 
 * Make sure you are using JDK 1.8 
-* You can build the project and run the tests by running ```mvn clean package```
+* You can build the project by running ```mvn clean package```
 * Once successfully built, you can run the service by below mentioned command:
 * Service takes 2 command line arguments N and M 
 * N = No of Players playing
